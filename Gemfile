@@ -65,3 +65,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'rspec-rails', '~> 5.0' # または最新のバージョン
 end
+
+gem "jsbundling-rails", "~> 1.2"
